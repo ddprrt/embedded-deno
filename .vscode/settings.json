@@ -1,0 +1,7 @@
+{
+    "rust-analyzer.rustfmt.overrideCommand": [
+        "rustfmt"
+    ],
+    "rust-analyzer.checkOnSave.command": "clippy",
+    "editor.formatOnSave": true
+}
